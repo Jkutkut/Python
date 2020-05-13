@@ -1,5 +1,6 @@
 # Python
 Here you will find Python3 based projects
+
 **·[Tetris](https://github.com/Jkutkut/PY-Tetris):** Version of the classic game Tetris
 
 **·[GameOfLife](https://github.com/Jkutkut/PY-GameOfLife):** Custom version of the Game of Life.
